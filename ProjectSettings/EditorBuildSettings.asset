@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SimpleSpinner/Demo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Preload/Scene/Preload.unity
+    guid: 50e2c5455fa5e4d469e18036fa9fc758
+  - enabled: 1
+    path: Assets/MainMenu/Scene/MainMenu.unity
+    guid: 4f15c83ca65ac14418885269bbfd4b63
+  - enabled: 1
+    path: Assets/Level1/Scene/Level1.unity
+    guid: 2b0636c22a4f206499da71bcf1c48040
+  - enabled: 1
+    path: Assets/ChoiceLevel/Scene/ChoiceScene.unity
+    guid: d185d0ec166f1e948b8836cc65d817a4
+  - enabled: 1
+    path: Assets/Settings/Scene/Settings.unity
+    guid: b86093efa34d5f04391942ae700daab8
+  - enabled: 1
+    path: Assets/Abount/Scene/About.unity
+    guid: e275b224efe49f44aa2260f2aae2426b
+  - enabled: 1
+    path: Assets/PreloaderLevel1/PreloaderLevel1.unity
+    guid: 310e73a9176bbd24f8942921bb298df7
+  - enabled: 1
+    path: Assets/PreloaderLevel2/PreloaderLevel2.unity
+    guid: 8b18fc8921e6bbc4fa46a4c9d2c6dd06
+  - enabled: 1
+    path: Assets/PreloaderLevel3/PreloaderLevel3.unity
+    guid: bd37a5a9d4ac14249b85650b9a555b29
+  - enabled: 1
+    path: Assets/Level2/Level2.unity
+    guid: b218d7762f61861409cb94ff34c88e46
+  - enabled: 1
+    path: Assets/Level3/Level3.unity
+    guid: 28026eb2fe7ac1a4a99a8626dfbbf18e
+  m_configObjects: {}
